@@ -1,0 +1,112 @@
+#HeadText{
+  color:red;
+  font-size: 40px;
+  font-weight:lighter;
+  text-align: center;
+
+}
+
+.content{
+  width: 80%;
+  margin: auto;
+  font-family: arial, helvetica, sans-serif,'Lato';
+
+}
+
+.ListBlock{
+  float: left;
+  width: 50%;
+  box-sizing: border-box;
+  padding-bottom: 30px;
+
+}
+
+.bodyText{
+  padding-bottom: 20px;
+}
+
+.button{
+  background-color: grey;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+}
+
+.button:hover{
+  background-color: black;
+
+}
+
+.block{
+  float:left;
+  width: 50;
+  box-sizing: border-box;
+
+}
+
+.form-group label{
+
+  padding-bottom: 20px;
+  display: block;
+
+}
+
+.form-group input[type="text"],input[type="email"], .form-group textarea{
+    width: 100%;
+    padding: 20px 0px;
+    margin-bottom: 20px;
+
+}
+
+.navbar{
+
+  color: red;
+}
+
+.navbar ul{
+  /*width: 20%
+  box-sizing: border-box;*/
+  list-style-type: none;
+}
+
+.navbar li{
+  display:inline;
+}
+
+a{
+
+  color: grey;
+
+}
+
+a:hover{
+
+  color: red;
+
+}
+
+a:active{
+
+  color: orange;
+
+}
+
+a:visited{
+
+  color: blue;
+
+}
+
+h2{
+  color: red;
+  font-weight: lighter;
+  text-align: center;
+
+}
+
+small{
+
+  color: red;
+  text-align: center;
+
+}

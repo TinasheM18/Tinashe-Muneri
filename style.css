@@ -1,9 +1,24 @@
 #HeadText{
   color:red;
-  font-size: 40px;
+  font-size: 70px;
   font-weight:lighter;
   text-align: center;
 
+}
+
+.icon{
+  vertical-align: middle;
+  width: 45px;
+  height: 50px;
+  border-radius: 50%;
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 20px 0px;
 }
 
 .content{
@@ -60,6 +75,8 @@
 
 .navbar{
 
+
+  margin:0 auto;
   color: red;
 }
 
@@ -70,12 +87,15 @@
 }
 
 .navbar li{
-  display:inline;
+  text-align: center;
+  display: inline;
+  padding-right: 5px;
 }
 
 a{
 
   color: grey;
+  text-decoration: none;
 
 }
 
